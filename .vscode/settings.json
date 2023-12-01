@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.imp": "clojure",
+        "ostream": "cpp"
+    }
+}
